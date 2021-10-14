@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Who Am I
-- 🌱 I’m currently learning JAVA, Spring
+- 🌱 I’m currently learning JAVA, SPRING
 - 🥇 I majored in International Economics
 - 🌍 My Email : namtaehyun9244@gmail.com
 
