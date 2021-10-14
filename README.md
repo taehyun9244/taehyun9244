@@ -1,4 +1,5 @@
 ### Hi there 👋
+namtaehyun9244@gmail.com
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000001)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
