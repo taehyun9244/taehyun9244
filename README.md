@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000001)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000001)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
