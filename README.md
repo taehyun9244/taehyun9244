@@ -1,11 +1,12 @@
 ### Hi there 👋
 ### Who Am I
+- My name is TAE-HYUN NAM
 - 🌱 I’m currently learning JAVA, SPRING
 - 🥇 I majored in International Economics
 - 🌍 My Email : namtaehyun9244@gmail.com
 
-
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=50&fontSize=60&fontColor=000001)
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=50&fontSize=60&fontColor=000001) -->
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center"></a> &nbsp
@@ -19,7 +20,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/></a> &nbsp 
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun9244&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
