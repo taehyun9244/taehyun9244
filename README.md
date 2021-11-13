@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Who Am I
-- 🍕 My name is TAEHYUN NAM
+- 🍻 My name is TAEHYUN NAM
 - 🌱 I’m currently learning JAVA, SPRING
 - 🥇 I majored in International Economics
 - 🌍 My Email : namtaehyun9244@gmail.com
