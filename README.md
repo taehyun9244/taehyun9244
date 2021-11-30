@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 ### Who Am I
 - 🍻 My name is TAEHYUN NAM
 - 🌱 I’m currently learning JAVA, SPRING
