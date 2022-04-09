@@ -1,14 +1,8 @@
-### Hi 👋
-### Who Am I
-- 🍻 My name is TAEHYUN NAM
-- 🌱 I’m currently learning JAVA, SPRING
-- 🥇 I majored in International Economics
-- 🌍 My Email : namtaehyun9244@gmail.com
+- My Email : namtaehyun9244@gmail.com
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=160&section=header&text=Hi!%20I'm%20TAEHYUN!&fontAlign=50&fontAlignY=50&fontSize=60&fontColor=000001) -->
 
-<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center"></a> &nbsp
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a> &nbsp
